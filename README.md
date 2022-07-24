@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VoTheHandsome
-- 👀 I’m interested in existing
+- 👀 I’m interested in being ugly
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on nothing. I have no friends
 - 📫 How to reach me: send me stuff on vothehandsome@aol.com
